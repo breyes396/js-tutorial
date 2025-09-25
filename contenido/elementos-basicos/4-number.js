@@ -31,3 +31,22 @@ const resultado=0.1+0.2 //0.3
 //console.log(resultado); //0.30000000000000004
 //console.log(resultado.toFixed(1)==0.3); //true
 
+
+//Operaciones avanzadas
+const raizCuadrada = Math.sqrt(16) //4
+const valorAbsoluto = Math.abs(-7) //7
+const aleatorio = Math.floor(Math.random()*20-5) //numero aleatorio entre 10 y 30
+//console.log(raizCuadrada);
+//console.log(valorAbsoluto);
+console.log(aleatorio);
+
+// lenguajes de programacion
+
+                //Runtime Exception
+//COMPILADOS: Java (JVM -> .java --> .class); C, C++
+//INTERPRETADOS: JavaScript --> lee > ejecuta
+
+const numero = 2
+const boolean = true
+//conversion implicita
+console.log(numero+boolean)
