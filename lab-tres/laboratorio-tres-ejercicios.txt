@@ -1,0 +1,29 @@
+Wilson Florián:
+Ejercicios condicionales:
+Ejercicios: 1 y 4
+
+Ejercicios de Bucles:
+Ejercicios: 13, 15
+
+Ejercicios Combinados y Desafíos:
+Ejercicios: 23 y 30
+
+Anderson Sosa:
+Ejercicios condicionales:
+Ejercicios: 2 y 3
+
+Ejercicios de Bucles:
+Ejercicios: 11, 20
+
+Ejercicios Combinados y Desafíos:
+Ejercicios: 21 y 29
+
+Billy Reyes:
+Ejercicios condicionales:
+Ejercicios: 5 y 6
+
+Ejercicios de Bucles:
+Ejercicios: 12 y 17
+
+Ejercicios Combinados y Desafíos:
+Ejercicios: 27 y 28
