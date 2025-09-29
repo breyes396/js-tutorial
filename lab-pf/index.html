@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Juego - Ahorcado</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="bienvenida" class="pantalla">
+    <h1>Bienvenido al ahorcado. Juego Kinalero</h1>
+    <p>¡Ponte a prueba y adivina la palabra antes de que te ahorquen!</p>
+    <button id="iniciarJuegoBtn">Nuevo Juego</button>
+    <h4>Creado por Billy Adrián Reyes López- 2024396</h4>
+  </div>
+
+  <div id="juego" class="pantalla" style="display: none;">
+    <h1>Juego del Ahorcado</h1>
+
+    <canvas id="canvas" width="200" height="200"></canvas>
+    <div id="palabra"></div>
+    <div id="letras"></div>
+    <div id="intentos"></div>
+    <div id="mensaje"></div>
+
+    <button id="nuevoJuegoBtn" onclick="iniciarJuego()">Nuevo Juego</button>
+  </div>
+
+  <script src="1-ahorcado.js"></script>
+</body>
+</html>
